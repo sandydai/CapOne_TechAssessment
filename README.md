@@ -11,3 +11,5 @@ The LanguageList class provides the functionality to add more languages.
 Exceptions are thrown when the file begins with "." or if the language is not recognized.
 
 A boolean is stored indicating if a language as block comment syntax or not. E.g. python does not but often uses '''  ''' string literal. Future modifications can be made to better check what constitutes a block comment or not. The current assumption is that only using block syntax results in a block comment. 
+
+Index.java is a test case file.
